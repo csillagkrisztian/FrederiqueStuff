@@ -1,0 +1,23 @@
+{
+  "name": "FrederiqueStuff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "frederiqueScript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csillagkrisztian/FrederiqueStuff.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csillagkrisztian/FrederiqueStuff/issues"
+  },
+  "homepage": "https://github.com/csillagkrisztian/FrederiqueStuff#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
